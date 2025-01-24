@@ -1,18 +1,14 @@
-﻿
-Console.WriteLine("Hello, C# World! One more modification");
+﻿void method1()
+{
+    // Do Something
+}
 
-Console.WriteLine("Hello, C# World! One more modification");
+void method2()
+{
+    // Do Something
+}
 
-Console.WriteLine("Hello, C# World! One more modification");
-
-Console.WriteLine("Hello, C# World! One more modification");
-
-Console.WriteLine("Hello, C# World! One more modification");
-
-Console.WriteLine("Hello, C# World! One more modification");
-
-Console.WriteLine("Hello, C# World! One more modification");
-
-Console.WriteLine("Hello, C# World! One more modification");
-
-Console.WriteLine("Hello, C# World! One more modification");
+void method3()
+{
+    // Do Something
+}
