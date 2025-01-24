@@ -1,18 +1,6 @@
-﻿
-Console.WriteLine("Hello, C# World! One more modification");
+﻿Method1();
 
-Console.WriteLine("Hello, C# World! One more modification");
-
-Console.WriteLine("Hello, C# World! One more modification");
-
-Console.WriteLine("Hello, C# World! One more modification");
-
-Console.WriteLine("Hello, C# World! One more modification");
-
-Console.WriteLine("Hello, C# World! One more modification");
-
-Console.WriteLine("Hello, C# World! One more modification");
-
-Console.WriteLine("Hello, C# World! One more modification");
-
-Console.WriteLine("Hello, C# World! One more modification");
+void Method1()
+{
+    Console.WriteLine("Now i have a method");
+}
